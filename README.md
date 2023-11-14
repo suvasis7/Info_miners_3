@@ -39,8 +39,8 @@ Individual Contribution:\
 Suvasis Das(Credit Course):- 30%\
 Ashwath Pranjal(Credit Course):-35%\
 Amit Mohapatra(Credit Course) :- 35%\
-Nisarg Saha(Audit Course):- 0%\
-Sanvi Aurora(Audit Course):- 0%
+Nisarg Shah(Audit Course):- 0%\
+Sanvi Arora(Audit Course):- 0%
 
 Data Accuired:\
 Kaggle\

@@ -15,7 +15,7 @@ Task 2: Predicting the Finalist Teams and Players
 
 Task 3: Predict the Winner of ICC Cricket World Cup 2023
 
-Individual Contribution:\n
+Individual Contribution:\
 Suvasis Das 30%
 Ashwath Pranjal 35%
 Amit Mohapatra  35%

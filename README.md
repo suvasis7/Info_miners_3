@@ -12,7 +12,6 @@ the tournament.\
 an individual player or team.
 
 Task 2: Predicting the Finalist Teams and Players
-
 Task 3: Predict the Winner of ICC Cricket World Cup 2023
 
 Libraries Used:(Include both Python and external Libraries
